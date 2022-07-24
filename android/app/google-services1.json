@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241248330105",
+    "project_id": "resep-makanan-39fbf",
+    "storage_bucket": "resep-makanan-39fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241248330105:android:c030c7ee010f4b5c468fa8",
+        "android_client_info": {
+          "package_name": "com.zeekands.resep_makanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241248330105-arbe7ukk1h97jmd2tqhdtu8m9krns623.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg6eEK3DlOmtAE1c92tv_SZ7GeL4n3pSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241248330105-arbe7ukk1h97jmd2tqhdtu8m9krns623.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
